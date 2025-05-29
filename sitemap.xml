@@ -1,0 +1,27 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+<loc>https://ssoid.github.io/</loc>
+<lastmod>2025-05-29T05:11:20+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://ssoid.github.io/sso-id-login/</loc>
+<lastmod>2025-05-29T05:11:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ssoid.github.io/sso-id-registration/</loc>
+<lastmod>2025-05-29T05:11:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ssoid.github.io/forget-sso-id-and-password/</loc>
+<lastmod>2025-05-29T05:11:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ssoid.github.io/disclaimer/</loc>
+<lastmod>2025-05-29T05:11:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+</urlset>
