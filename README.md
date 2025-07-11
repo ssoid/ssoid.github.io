@@ -88,6 +88,7 @@ On this website, you’ll find:
 
 🔗 [Visit the Website](https://ssoid.github.io)  
 📘 [SSO Rajasthan Official Portal](https://sso.rajasthan.gov.in)
+Check Your Vehicle Insurance Status here [askMID Insurance](https://askmidinsurance.org/)
 
 ---
 
