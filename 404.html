@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+  <meta charset="UTF-8">
+  <title>404 – Page Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, follow">
+
+  <style>
+    :root {
+      --primary: #007bff;
+      --dark: #0b1320;
+      --light: #f8f9fa;
+    }
+
+    * {
+      box-sizing: border-box;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      background: linear-gradient(135deg, #eef4ff, #ffffff);
+      color: #333;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .error-box {
+      background: #ffffff;
+      padding: 40px 30px;
+      border-radius: 12px;
+      max-width: 420px;
+      width: 90%;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    .error-code {
+      font-size: 96px;
+      font-weight: 800;
+      color: var(--primary);
+      margin: 0;
+      line-height: 1;
+    }
+
+    .error-title {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 10px 0;
+    }
+
+    .error-text {
+      font-size: 15px;
+      color: #555;
+      margin-bottom: 25px;
+    }
+
+    .btn-home {
+      display: inline-block;
+      padding: 12px 22px;
+      background: var(--primary);
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: 500;
+      transition: 0.2s ease;
+    }
+
+    .btn-home:hover {
+      background: #0056b3;
+    }
+
+    .footer-note {
+      margin-top: 20px;
+      font-size: 13px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="error-box">
+    <h1 class="error-code">404</h1>
+    <div class="error-title">Page Not Found</div>
+    <p class="error-text">
+      Sorry, the page you’re looking for doesn’t exist or has been moved.
+    </p>
+
+    <a href="/" class="btn-home">Go to Homepage</a>
+
+    <div class="footer-note">
+      If you believe this is an error, please check the URL.
+    </div>
+  </div>
+
+</body>
+</html>
